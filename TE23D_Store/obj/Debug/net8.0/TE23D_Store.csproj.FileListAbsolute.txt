@@ -1,0 +1,14 @@
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\bin\Debug\net8.0\TE23D_Store.exe
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\bin\Debug\net8.0\TE23D_Store.deps.json
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\bin\Debug\net8.0\TE23D_Store.runtimeconfig.json
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\bin\Debug\net8.0\TE23D_Store.dll
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\bin\Debug\net8.0\TE23D_Store.pdb
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.AssemblyInfoInputs.cache
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.AssemblyInfo.cs
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.csproj.CoreCompileInputs.cache
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.dll
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\refint\TE23D_Store.dll
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.pdb
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.genruntimeconfig.cache
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\ref\TE23D_Store.dll
