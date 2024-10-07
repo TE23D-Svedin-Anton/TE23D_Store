@@ -12,3 +12,4 @@ C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\n
 C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.pdb
 C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.genruntimeconfig.cache
 C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\ref\TE23D_Store.dll
+C:\Users\anton.svedin\Documents\Programering\TE23D_Store\TE23D_Store\obj\Debug\net8.0\TE23D_Store.sourcelink.json

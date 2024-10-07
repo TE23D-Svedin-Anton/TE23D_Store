@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TE23D_Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa5343ed61bfda312955239f0d1e2c487c5893c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TE23D_Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TE23D_Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
